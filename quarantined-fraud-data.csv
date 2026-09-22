@@ -1,0 +1,11 @@
+Transaction_ID,Customer_ID,Transaction_DateTime,Transaction_Type,Merchant_Category,Transaction_Amount,Account_Balance_Before,Account_Balance_After,Card_Present,Device_Type,Transaction_Country,Distance_From_Home_KM,Customer_Age,Customer_Gender,Customer_Tenure_Months,Previous_Fraud_Flags,Is_Fraud,Quarantine_Reason
+TXN000568,CUST00913,2024-05-15 19:36:13,Online Purchase,Entertainment,-30.75,8777.99,8747.24,No,Mobile App,United Kingdom,8.2,18,Male,93,0,0,Non-positive Transaction_Amount
+TXN000605,CUST00430,2024-05-27 10:52:21,ATM Withdrawal,Groceries,-124.33,2671.84,2547.51,No,Mobile App,UAE,17.0,35,Male,100,0,0,Non-positive Transaction_Amount
+TXN002314,CUST01094,2025-07-21 22:41:48,POS Purchase,Electronics,-83.03,7088.69,7197.69,No,Mobile App,Pakistan,29.8,78,Female,88,0,0,Non-positive Transaction_Amount
+TXN002969,CUST01065,2025-12-27 08:39:47,ATM Withdrawal,Restaurants,-70.39,7367.29,7296.9,Yes,Web Browser,United Kingdom,14.1,47,Male,38,0,0,Non-positive Transaction_Amount
+TXN000667,CUST00541,2024-06-10 16:57:16,POS Purchase,Online Services,61.89,1400.62,1338.73,Yes,Web Browser,United States,0.8,80,Male,107,1,0,Duplicate transaction record
+TXN001681,CUST00239,2025-02-20 15:54:40,POS Purchase,Electronics,41.97,9536.83,9494.86,Yes,Web Browser,United States,23.8,76,Female,174,0,0,Duplicate transaction record
+TXN002329,CUST00051,2025-07-26 18:32:10,Wire Transfer,Groceries,176.18,2280.63,2104.45,,ATM Machine,Pakistan,16.2,55,Male,63,0,0,Duplicate transaction record
+TXN000187,CUST00781,2024-02-13 15:30:13,Online Purchase,Healthcare,296.56,4154.21,3857.65,No,Mobile App,Canada,20.4,20,Female,50,0,0,Duplicate transaction record
+TXN001939,CUST00010,2025-04-23 04:14:07,Bank Transfer,Jewelry & Luxury,665.13,8553.08,7887.95,,Mobile App,United States,11.3,68,Female,67,0,1,Duplicate transaction record
+TXN000692,CUST00126,2024-06-16 16:56:23,Bank Transfer,Restaurants,136.79,1405.83,1269.04,,Mobile App,India,2.2,19,Male,37,0,0,Duplicate transaction record
